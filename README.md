@@ -50,8 +50,6 @@ Here are a few projects I’m proud of:
 4. **WordPress on AWS (EC2 + RDS + S3 + EBS)**  
    - Full deployment of WordPress website on AWS with scalability & backup  
 
-*(You can add project links with `[Project Name](URL)` if hosted on GitHub or live)*
-
 ---
 
 ## 🌐 Connect with Me
