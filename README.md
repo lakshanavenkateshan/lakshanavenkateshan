@@ -1,19 +1,19 @@
-# Hi there, I'm Lakshana V 👋
+# Hi there, I'm Lakshana V
 
-I am a **Biomedical Engineering student** passionate about **Machine Learning, Cloud (AWS), and DevOps**. I love building innovative solutions at the intersection of **AI and healthcare**. 🚀  
-
----
-
-## 🔭 About Me
-- 🎓 Biomedical Engineering Student | Aspiring AI in Healthcare Specialist
-- 💻 Enthusiastic about Machine Learning, Deep Learning, and Cloud Computing (AWS)
-- ⚙️ DevOps admirer – CI/CD, Docker, Kubernetes, GitHub Actions
-- 🌱 Currently learning **Generative AI, NLP, and advanced cloud architectures**
-- 🌟 Fun Fact: I love combining **tech with healthcare** to make life easier!
+I am a **Biomedical Engineering student** passionate about **Machine Learning, Cloud (AWS), and DevOps**. I love building innovative solutions at the intersection of **AI and healthcare**.
 
 ---
 
-## 🛠️ Skills
+## About Me
+-  Biomedical Engineering Student | Aspiring AI in Healthcare Specialist
+-  Enthusiastic about Machine Learning, Deep Learning, and Cloud Computing (AWS)
+-  DevOps admirer – CI/CD, Docker, Kubernetes, GitHub Actions
+-  Currently learning **Generative AI, NLP, and advanced cloud architectures**
+-  Fun Fact: I love combining **tech with healthcare** to make life easier!
+
+---
+
+##  Skills
 
 ### Programming & Tools
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -33,7 +33,7 @@ I am a **Biomedical Engineering student** passionate about **Machine Learning, C
 
 ---
 
-## 📂 Projects
+##  Projects
 Here are a few projects I’m proud of:  
 
 1. **Heart Disease Risk Prediction & Analysis Dashboard**  
@@ -55,9 +55,8 @@ Here are a few projects I’m proud of:
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lakshana-v-95957632b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vhanah14@gmail.com)
 
 ---
 
@@ -66,10 +65,9 @@ Here are a few projects I’m proud of:
 
 ---
 
-## 💡 Fun Quote
-*"The best way to predict the future is to invent it."* – Alan Kay
-## Hi there 👋
-
+## 
+*"The greatest education in the world is watching the masters at work."* – Michael Jackson
+---
 <!--
 **lakshanavenkateshan/lakshanavenkateshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
