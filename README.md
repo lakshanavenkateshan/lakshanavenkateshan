@@ -58,11 +58,6 @@ Here are a few projects I’m proud of:
 
 ---
 
-## 📈 GitHub Stats
-![Lakshana's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshanaV&show_icons=true&theme=radical)
-
----
-
 ## 
 *"The greatest education in the world is watching the masters at work."* – Michael Jackson
 ---
